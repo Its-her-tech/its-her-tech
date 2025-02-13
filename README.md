@@ -1,11 +1,8 @@
 ## Hi there 👋
-<h1 align="center">Hi 👋, I'm Khushi Verma</h1>
+<h1 align="center"> I'm Khushi Verma</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="500" />
 </p>
-<!--
-**Its-her-tech/its-her-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🚀 About Me
 
 - 🔭 I’m currently working on IOT projects
@@ -20,8 +17,9 @@ and working with mobile and web platforms to create seamless user experiences.
 Constantly learning and experimenting, I aim to develop scalable, secure, and intelligent IoT systems for real-world applications.
 
 🔹 Key Skills: IoT Development, Embedded Systems, Sensor Networks, Cloud Integration, PCB Designing, Mobile App Connectivity
+<br>
 🔹 Tech Stack: ESP32, Raspberry Pi, Python, C++, MQTT, Firebase, Adalo, Flutter
-
+<br>
 Let’s innovate together! 🚀
 
 ## 📊 GitHub Stats  
@@ -29,9 +27,6 @@ Let’s innovate together! 🚀
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" width="48%" />
 </p>
-
----
-
 ## 🌐 Connect with Me  
 <p align="center">
   <a href=https://www.linkedin.com/in/khushi-verma-3704a0236/ target="_blank">
